@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "quizapp",
     "name": "QuizApp",
     "slug": "QuizApp",
     "version": "1.0.0",
