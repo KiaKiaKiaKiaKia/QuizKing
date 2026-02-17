@@ -15,6 +15,7 @@ What I learnt:
   user accounts
 
 What I would do better:
+- Make code more reusable and scalable (e.g. not have seperate static pages for the different levels)
 - Email and password verification to ensure the user inputs emails in the correct
   format and strong enough passwords with a minimum character limit, numbers, etc. 
 - Randomising the order of questions and answers are shown.
